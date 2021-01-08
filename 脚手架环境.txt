@@ -1,0 +1,6 @@
+npm i element-plus
+npm i axios
+npm install mockjs --save-dev
+tnpm install --save-dev image-webpack-loader //打包后压缩图片
+tnpm install --save-dev compression-webpack-plugin //打包后压缩js跟css
+tnpm install --save-dev uglifyjs-webpack-plugin //打包代码压缩
